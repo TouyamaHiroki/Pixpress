@@ -1,0 +1,154 @@
+@media screen and (max-width: 330px){
+
+  body {
+    width: 320px;
+  }
+  .top-topic {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 50px;
+  }
+  .members img  {
+    height: 200px;
+    width: 300px;
+  }
+  .members {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-a {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-b {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-c {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-d {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-e {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .small {
+    font-size: 14px;
+    padding-bottom: 60px;
+  }
+
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 400px){
+
+  body {
+    width: 375px;
+  }
+  .top-topic {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 80px;
+  }
+  .members img  {
+    height: 220px;
+    width: 330px;
+  }
+  .members {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-a {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-b {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-c {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-d {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-e {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .small {
+    font-size: 14px;
+    padding-bottom: 60px;
+  }
+
+
+}
+
+@media screen and (min-width: 401px) and (max-width: 670px){
+
+  body {
+    width: 414px;
+  }
+  .top-topic {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 100px;
+  }
+  .members img  {
+    height: 250px;
+    width: 375px;
+  }
+  .members {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-a {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-b {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-c {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-d {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .member-e {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .small {
+    font-size: 16px;
+    padding-bottom: 60px;
+  }
+
+}

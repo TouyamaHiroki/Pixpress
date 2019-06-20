@@ -1,0 +1,96 @@
+@media screen and (max-width: 330px){
+
+  body {
+    width: 100%;
+  }
+  .top-topic {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .all {
+    margin-left: 10px;
+    width: 100%;
+  }
+  .all p {
+    margin-bottom: 50px;
+    font-size: 12px;
+  }
+  .all h3 {
+    font-size: 16px;
+  }
+  footer {
+    width: 320px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 10px;
+    text-align: center;
+  }
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 400px){
+
+  body {
+    width: 375px;
+  }
+  .top-topic {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 25px;
+  }
+  .all {
+    margin-left: 20px;
+    width: 320px;
+  }
+  .all p {
+    margin-bottom: 50px;
+    font-size: 12px;
+  }
+  .all h3 {
+    font-size: 16px;
+  }
+  footer {
+    width: 375px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 10px;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 670px){
+
+  body {
+    width: 414px;
+  }
+  .top-topic {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 35px;
+  }
+  .all {
+    margin-left: 20px;
+    width: 414px;
+  }
+  .all p {
+    margin-bottom: 50px;
+    font-size: 12px;
+  }
+  .all h3 {
+    font-size: 16px;
+  }
+  footer {
+    width: 414px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 10px;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 671px) and (max-width: 1024px){
+
+  .all {
+    margin-left: 150px;
+  }
+}
